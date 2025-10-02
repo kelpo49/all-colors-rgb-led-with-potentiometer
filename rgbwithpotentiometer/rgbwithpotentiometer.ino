@@ -1,3 +1,7 @@
+//by: kelpo49
+//for: rgb potentiometer project
+//date: june 6th 2025
+//license: MIT
 int led[] = {11, 10, 9}; //led pins, array com 3 defined spaces
 int pinpot = A0; //potentiometer pin
 int pot = 0; //store potentiometer value
